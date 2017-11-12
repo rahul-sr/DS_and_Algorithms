@@ -22,8 +22,9 @@ BST.prototype.insert = function(data) {
 	}
 }
 
-root = new BST(10);
+let root = new BST(10);
 root.insert(1);
 root.insert(12);
 root.insert(13);
 root.insert(5);
+root.insert(0);
