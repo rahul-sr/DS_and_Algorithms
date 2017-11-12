@@ -1,3 +1,15 @@
+/**
+ *  BST Insertion
+ *
+ *      10
+ *     /  \
+ *    1	  12
+ *	 / \    \
+ *  0   5   13
+ *
+ */
+
+
 function BST(data) {
   this.data = data;
   this.left = null;

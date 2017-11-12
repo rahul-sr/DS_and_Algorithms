@@ -1,5 +1,5 @@
 /**
- *  InOrder Traversal
+ * LevelOrder Traversal
  *
  *      10
  *     /  \
@@ -7,9 +7,7 @@
  *	 / \    \
  *  0   5   13
  *
- * => 0, 1, 5, 10, 12, 13
- *
- *  print order -> left, root & right
+ * => 10, 1, 12, 0, 5, 13
  *
  */
 
